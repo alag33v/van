@@ -309,6 +309,7 @@ p {
     padding: 0 15px;
     display: block;
     margin-left: 20px;
+    cursor: pointer;
 }
 
 .person__more-tel:hover,
